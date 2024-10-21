@@ -19,7 +19,7 @@ Exibição dos resultados diretamente na tela.
 
 - Tecnologias Utilizadas
 
-Linguagem: Python
+Linguagem: Javascript
 
 IDE: Visual Studio Code
 
